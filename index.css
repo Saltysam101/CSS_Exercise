@@ -5,12 +5,12 @@
 
 main {
     max-width: 600px;
-    margin: 24px auto;
+    margin: 44px auto;
 }
 
 section {
-    margin-top: 24px;
-    margin-bottom: 24px;
+    margin-top: 44px;
+    margin-bottom: 44px;
     padding: 16px;
 }
 
